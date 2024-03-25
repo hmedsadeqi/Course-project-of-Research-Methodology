@@ -1,5 +1,5 @@
 clear all
-cd "F:\TeIAS Gradschool\Metrics 1\Projects\Sadeqi_Hamed"
+cd "D:\Arak University\Research Methodology\Project"
 
 odbc load, table("R1400P1") dsn("heis1400")
 generate ur = 0
